@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Wafiq5/Wafiq5.github.io](https://github.com/Wafiq5/Wafiq5.github.io)
 
-- 📝 I regularly write articles on [Making a virus](Making a virus)
+- 📝 I regularly write articles on Making a virus
 
 - 💬 Ask me about **Making a virus**
 
