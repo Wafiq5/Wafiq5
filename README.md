@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Making a virus**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Wafiq5/Wafiq5.github.io](https://github.com/Wafiq5/Wafiq5.github.io)
+- 👨‍💻 All of my projects are available at [https://github.com/Wafiq5/Wafiq5.github.io](https://github.com/Wafiq5/)
 
 - 📝 I regularly write articles on Making a virus
 
